@@ -29,10 +29,7 @@
 .main-container {
   position: absolute;
 }
-.main-container .logo  img{
-  height: 2.5rem;
-  width: auto;
-}
+
 .main-container section {
   position: relative;
   display: flex;
@@ -49,13 +46,12 @@
   font-weight: 600;
 }
 .main-container section .right p{
-  font-size: 13px;
  font-weight: lighter;
  margin: 2.5rem 0 1.875rem;
 }
 
 .main-container section .right button {
-  padding: 1rem 2.5rem;
+  padding: 1rem 3rem;
   border: none;
   border-radius: 25px;
  color: var(--Violet);
